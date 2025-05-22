@@ -74,8 +74,6 @@ export default function ContactForm() {
         <Button 
           type="submit" 
           className="w-full"
-          whileHover={{ scale: 1.02 }}
-          whileTap={{ scale: 0.98 }}
         >
           Envoyer le message
         </Button>
